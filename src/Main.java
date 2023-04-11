@@ -2,7 +2,7 @@ import java.time.Year;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Привет мир! ");
+        System.out.println("Hello World");
         task1();
         task2();
         task3();
